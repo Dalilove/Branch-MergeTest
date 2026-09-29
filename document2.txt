@@ -1,5 +1,4 @@
 // C program for Merge Sort
-# Second modification on Main branch.
 #include <stdio.h>
 #include <stdlib.h>
 
